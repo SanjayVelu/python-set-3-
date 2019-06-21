@@ -1,0 +1,5 @@
+a,b=map(int,input().split())
+c,d=map(int,input().split())
+ip1=abs(a-c)
+ip2=abs(b-d)
+print(ip1,ip2)
